@@ -1,1 +1,1 @@
-# Region-Decomposition-Algorithm-in-Electromagnetic-Field
+# Region Decomposition Algorithm in Electromagnetic Field
